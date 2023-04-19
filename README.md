@@ -7,8 +7,8 @@
 - 📈 Interests include **Cryptocurrency & Equities trading**
 - 🥋 Hobbies Include: **MMA, Boxing, BJJ, Muay-Thai & Weight-lifting**
 - 🌱 I’m currently learning **JS, ReactJS, ExpressJS & NodeJS**
-- 📫 How to reach me: Contact me on **LinkedIn (https://www.linkedin.com/in/jakirashraf/)**
-- 👨‍💻 All of my projects are available at [github.com/jakir9](github.com/jakir9)
+- 📫 How to reach me: Contact me on **[LinkedIn](https://www.linkedin.com/in/jakirashraf/)**
+- 👨‍💻 All of my projects are available on **[Github](github.com/jakir9)**
  
 
 <h3 align="left">Languages:</h3>
