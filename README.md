@@ -4,7 +4,6 @@
 - 🤖 Looking for roles in Software engineering (JS,Java,Python)
 - 🌱 I’m currently learning HTML,CSS, JS, ExpressJS, NodeJS, Python
 - 📫 How to reach me: Contact me on LinkedIn (https://www.linkedin.com/in/jakirashraf/)
-- 
 - Currently working on #100daysOfCode 
 
 ## My Languages
@@ -20,6 +19,8 @@
   
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
  
+    
+
   <a href="https://www.linkedin.com/in/jakirashraf/" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a> &nbsp; 
