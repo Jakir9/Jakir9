@@ -1,4 +1,4 @@
-# Hi there, I'm Jakir👋
+# Hi there, I'm Jakir👋🏽👨🏽‍💻
 
 - 🔭 I’m currently working on the School Of Code Bootcamp (Full stack front end web-dev)
 - 🤖 Looking for roles in Software engineering (JS,Java,Python)
