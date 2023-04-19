@@ -12,10 +12,10 @@
 <p align="right">
   <a align="left">
  
-
-    <a>    
-    <img src="https://img.shields.io/npm/v/npm.svg?logo=npm" alt="npm">
+  <a>
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"> </a>
   </a>
+  
   <a>    
     <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" alt="javascript">
   </a>
