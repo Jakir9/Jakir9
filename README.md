@@ -6,8 +6,6 @@
 - 📫 How to reach me: Contact me on LinkedIn (https://www.linkedin.com/in/jakirashraf/)
 - Currently working on #100daysOfCode 
 
-## My Languages
-
 <p align="left">
   <a align="left">
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></code>
@@ -27,7 +25,7 @@
   <a href="https://leetcode.com/Jakir98/" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode">
   </a>
-</p>
+
 
 <p align="center"> 
   Visitor counter<br>
