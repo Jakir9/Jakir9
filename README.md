@@ -9,7 +9,7 @@
 
 ## My Languages
 
-<p align="right">
+<p align="left">
   <a align="left">
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/></code>
