@@ -8,7 +8,7 @@
 - 🥋 Hobbies Include: **MMA, Boxing, BJJ, Muay-Thai & Weight-lifting**
 - 🌱 I’m currently learning **JS, ReactJS, ExpressJS & NodeJS**
 - 📫 How to reach me: Contact me on **[LinkedIn](https://www.linkedin.com/in/jakirashraf/)**
-- 👨‍💻 All of my projects are available on **[Github](https://github.com/Jakir9)**
+- 👨‍💻 All of my projects are available on **[Github](https://github.com/Jakir9?tab=repositories)**
  
 
 <h3 align="left">Languages:</h3>
