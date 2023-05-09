@@ -45,7 +45,7 @@
     </div>
 
   
-- ####  <b>Test</b>
+- ####  <b>Testing</b>
 
   <div id="test">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" height="25" />
@@ -54,7 +54,7 @@
    </div>
 
     
-- ####  <b>Deploy</b>
+- ####  <b>Deployment</b>
 
   <div id="deploy">
         <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="netlify" height="25" />
@@ -71,6 +71,8 @@
   <a href="https://leetcode.com/Jakir98/" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode">
   </a>
+  
+  [![Codewars](https://www.codewars.com/users/Jakir9/badges/large)]([https://www.codewars.com/users/Jakir9])
 
 <p align="center"> 
   Visitor counter<br>
