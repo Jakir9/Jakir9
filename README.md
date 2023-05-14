@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm Jakir 👋🏽 </h1>
 
 
-- 🔭 I’m currently working on the **School Of Code Bootcamp (16-Week Full stack bootcamp)** 
+- 🔭 I’m currently working on the **School Of Code Bootcamp - Week 10 (16-Week Full stack bootcamp)** 
 - 🤖 Looking for roles in **Software engineering** (JS, Java, Python)
 - 💻 Experience with **JavaScript, Java, & Python**
 - 📈 Interests include **Cryptocurrency & Equities trading**
