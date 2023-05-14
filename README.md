@@ -5,7 +5,7 @@
 - 🤖 Looking for roles in **Software engineering** (JS, Java, Python)
 - 💻 Experience with **JavaScript, Java, & Python**
 - 📈 Interests include **Cryptocurrency & Equities trading**
-- 🥋 Hobbies Include: **MMA, Boxing, BJJ, Muay-Thai & Weight-lifting**
+- 🥋 Hobbies Include: **MMA, BJJ & Weight-lifting**
 - 🌱 I’m currently learning **NodeJS & PostgreSQL**
 - 📫 How to reach me: Contact me on **[LinkedIn](https://www.linkedin.com/in/jakirashraf/)** or email **hello@jakirashraf.me**
 - 👨‍💻 All of my projects are available on **[Github](https://github.com/Jakir9?tab=repositories)** and my **[Porfolio Site](www.jakirashraf.me)**
@@ -72,7 +72,11 @@
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode">
   </a>
   
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakir9&show_icons=true&count_private=true)
+  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jakir9)
   [![Codewars](https://www.codewars.com/users/Jakir9/badges/large)]([https://www.codewars.com/users/Jakir9])
+
+  
 
 <p align="center"> 
   Visitor counter<br>
