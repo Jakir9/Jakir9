@@ -3,19 +3,17 @@
 <div align="center">
   <p>
     🔭 I’m currently working on the <b>School Of Code Full Stack Bootcamp</b> - Week 13/16
-    🤖 Looking for roles in <b>Software development</b> <br>
-    💻 Experience with <b>JavaScript & Java </b>
+    🤖 Looking for roles in <b>Software development</b>
+    <br>💻 Experience with <b>JavaScript & Java </b>
     🌱 Currently learning <b>NodeJS & NextJS </b> <br>
   👨‍💻 All of my projects are available on Github and on my portfolio site 
   </p>
 </div>
 <!-- - 📈 Interests include **Cryptocurrency & Equities trading** -->
 <!-- - 🥋 Hobbies Include: **MMA, BJJ & Weight-lifting** -->
-
 <br>
-
  <div align="center"> 
-  <h3> Connect with me: </h3>
+  <h2> Connect with me: </h2>
 <a href="http://www.jakirashraf.me" target="_blank"><img src="https://img.shields.io/badge/-my_Portfolio-5551E3?style=for-the-badge&logo=ko-f&logoColor=white" target="_blank"></a>
 <a href = "mailto: jakir@jakirashraf.me"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jakirashraf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
