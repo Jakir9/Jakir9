@@ -70,10 +70,10 @@
   
 
   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jakir9)
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   [![Codewars](https://www.codewars.com/users/Jakir9/badges/large)]([https://www.codewars.com/users/Jakir9])
   
-![snake gif](https://github.com/Jakir9/Jakir/blob/output/github-contribution-grid-snake.gif)
-  
+<p align="center"><img align="center" src="https://github.com/Jakir9/Jakir9/blob/output/github-contribution-grid-snake.svg" /></p>
   
 
 <p align="center"> 
