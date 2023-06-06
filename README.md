@@ -68,10 +68,12 @@
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode">
   </a>
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakir9&show_icons=true&count_private=true)
+
   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jakir9)
   [![Codewars](https://www.codewars.com/users/Jakir9/badges/large)]([https://www.codewars.com/users/Jakir9])
-
+  
+![snake gif](https://github.com/Jakir9/Jakir/blob/output/github-contribution-grid-snake.gif)
+  
   
 
 <p align="center"> 
