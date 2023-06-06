@@ -8,7 +8,7 @@
 - 🥋 Hobbies Include: **MMA, BJJ & Weight-lifting**
 - 🌱 I’m currently learning **NodeJS & PostgreSQL**
 - 📫 How to reach me: Contact me on **[LinkedIn](https://www.linkedin.com/in/jakirashraf/)** or email **hello@jakirashraf.me**
-- 👨‍💻 All of my projects are available on **[Github](https://github.com/Jakir9?tab=repositories)** and my **[Porfolio Site](www.jakirashraf.me)**
+- 👨‍💻 All of my projects are available on **[Github](https://github.com/Jakir9?tab=repositories)** and my **[Porfolio Site](http://www.jakirashraf.me)**
 
 
 ### <b>Tech Stack: </b>
