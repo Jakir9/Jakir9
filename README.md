@@ -5,7 +5,7 @@
     🔭 I’m currently working on the <b>School Of Code Full Stack Bootcamp</b> - Week 15/16
     🤖 Looking for roles in <b>Software development</b>
     <br>💻 Experience with <b>JavaScript & Java </b>
-    🌱 Currently learning <b>NodeJS & NextJS </b> <br>
+    🌱 Currently learning <b>NodeJS</b> <br>
   👨‍💻 All of my projects are available on Github and on my portfolio site 
   </p>
 </div>
