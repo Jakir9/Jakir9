@@ -2,7 +2,7 @@
 
 <div align="center">
   <p>
-    🔭 I’m currently working on the <b>School Of Code Full Stack Bootcamp</b> - Week 13/16
+    🔭 I’m currently working on the <b>School Of Code Full Stack Bootcamp</b> - Week 15/16
     🤖 Looking for roles in <b>Software development</b>
     <br>💻 Experience with <b>JavaScript & Java </b>
     🌱 Currently learning <b>NodeJS & NextJS </b> <br>
