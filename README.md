@@ -2,8 +2,8 @@
 
 <div align="center">
   <p>
-    🔭 <b>School Of Code Full Stack Bootcamp Graduate</b>
-    🤖 Looking for roles in <b>Software development</b>
+    🔭 <b>Full Stack Bootcamp Graduate / Computer Science Graduate</b>
+    🤖 Looking for roles in <b>Software Engineering</b>
     <br>💻 Experience with <b>JavaScript & Java </b>
     🌱 Currently learning <b>NodeJS</b> <br>
   👨‍💻 All of my projects are available on Github and on my portfolio site 
