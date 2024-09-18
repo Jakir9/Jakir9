@@ -15,7 +15,7 @@
  <div align="center"> 
   <h2> Connect with me: </h2>
 <a href="https://jakirashraf.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-my_Portfolio-5551E3?style=for-the-badge&logo=ko-f&logoColor=white" target="_blank"></a>
-<a href = "mailto: jakir@jakirashraf.me"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto: jakirashraf@icloud.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jakirashraf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://leetcode.com/Jakir98/" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode">
