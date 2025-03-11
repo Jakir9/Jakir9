@@ -2,10 +2,9 @@
 
 <div align="center">
   <p>
-    🔭 <b>Full Stack Bootcamp Graduate / Computer Science Graduate</b>
+    🔭 <b>Full Stack developer / Computer Science Graduate</b>
     🤖 Looking for roles in <b>Software Engineering</b>
-    <br>💻 Experience with <b>JavaScript & Java </b>
-    🌱 Currently learning <b>NodeJS</b> <br>
+    <br>💻 Experience include <b>JavaScript, React, NodeJS, SQL, Java, Python </b>
   👨‍💻 All of my projects are available on Github and on my portfolio site 
   </p>
 </div>
