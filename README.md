@@ -1,15 +1,15 @@
 <h1 align="center"> Hi there, I'm Jakir 👋🏽 </h1>
 
 <div align="center">
-  <p>
-    🔭 <b>Full Stack developer / Computer Science Graduate</b>
-    🤖 Looking for roles in <b>Software Engineering</b>
-    <br>💻 Experience include <b>JavaScript, React, NodeJS, SQL, Java, Python </b>
+  <p>  
+    🤖 <b>Full-Stack Developer </b> <br>
+    📚 <b>BSc Computer Science Graduate</b>
+    <br>💻 Experience include <b>JavaScript, React, NodeJS, SQL, Java </b>
+     <br>👨🏽‍💻 Currently developing my skills in <b>C#, Angular, MongoDB </b> <br>
   👨‍💻 All of my projects are available on Github and on my portfolio site 
   </p>
 </div>
-<!-- - 📈 Interests include **Cryptocurrency & Equities trading** -->
-<!-- - 🥋 Hobbies Include: **MMA, BJJ & Weight-lifting** -->
+
 <br>
  <div align="center"> 
   <h2> Connect with me: </h2>
