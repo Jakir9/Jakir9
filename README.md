@@ -3,13 +3,11 @@
 <div align="center">
   <p>  
     🤖 <b>Full-Stack Developer </b> <br>
-    📚 <b>BSc Computer Science Graduate</b>
     <br>💻 Experience include <b>JavaScript, React, NodeJS, SQL, Java </b>
-     <br>👨🏽‍💻 Currently developing my skills in <b>C#, Angular, MongoDB </b> <br>
-  👨‍💻 All of my projects are available on Github and on my portfolio site 
+     <br>👨🏽‍💻 Currently using <b>C#, Angular, PowerApps, MongoDB </b> <br>
   </p>
 </div>
-
+<!--
 <br>
  <div align="center"> 
   <h2> Connect with me: </h2>
@@ -22,6 +20,8 @@
  </div>
 <br><br>
 
+-->
+<!--
 <div align="center"> 
 <h2>Tech Stack: </h2>
 
@@ -83,11 +83,11 @@
   <a href="https://leetcode.com/Jakir98/" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode">
   </a>
-   -->
+   
 
 <!--   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jakir9)
   [![Codewars](https://www.codewars.com/users/Jakir9/badges/large)]([https://www.codewars.com/users/Jakir9])
- -->
+ 
   
 <p align="center"><img align="center" src="https://github.com/Jakir9/Jakir9/blob/output/github-contribution-grid-snake.svg" /></p>
   
@@ -97,4 +97,4 @@
   <img src="https://profile-counter.glitch.me/jakir9/count.svg" />
 </p>
 
-  
+  -->
