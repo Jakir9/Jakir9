@@ -2,9 +2,9 @@
 
 <div align="center">
   <p>  
-    🤖 <b>Full-Stack Developer </b> <br>
+    🤖 <b>Current Role: Full-Stack Developer </b> <br>
     <br>💻 Experience include <b>JavaScript, React, SQL </b>
-     <br>👨🏽‍💻 Currently learning <b>C#</b> <br>
+     <br>👨🏽‍💻 Currently using <b>C#</b> <br>
   </p>
 </div>
 <!--
