@@ -3,8 +3,8 @@
 <div align="center">
   <p>  
     🤖 <b>Full-Stack Developer </b> <br>
-    <br>💻 Experience include <b>JavaScript, React, NodeJS, SQL, Java </b>
-     <br>👨🏽‍💻 Currently using <b>C#, Angular, PowerApps, MongoDB </b> <br>
+    <br>💻 Experience include <b>JavaScript, React, SQL </b>
+     <br>👨🏽‍💻 Currently learning <b>C#</b> <br>
   </p>
 </div>
 <!--
