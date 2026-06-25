@@ -1,8 +1,8 @@
-<h1 align="center"> Welcome 👋🏽 </h1>
+<h1 align="center">  👋🏽 </h1>
 
 <div align="center">
   <p>  
-    🤖 <b>Full-Stack Developer </b> <br>
+    🤖 <b>Currently working as a Full-Stack Developer </b> <br>
     <br>💻 Experience include <b>JavaScript, React, SQL </b>
      <br>👨🏽‍💻 Currently using <b>C#</b> <br>
   </p>
